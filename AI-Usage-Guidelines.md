@@ -1,4 +1,4 @@
-# Cyber Security
+# AI Usage Guidelines
 
 1. **AI for Assistance:**  
    I use AI primarily as a learning tool and productivity aid rather than a shortcut to bypass effort. My standard for whether it is right or wrong to use AI is based on its long-term benefits—if it helps me grow and improve my skills, then it is a valuable tool. If I already have the skills to solve a problem, I usually do not rely on AI, or I may use it as a secondary check for minor issues like grammar or typos.
