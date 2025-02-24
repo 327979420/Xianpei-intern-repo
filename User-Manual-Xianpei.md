@@ -1,16 +1,49 @@
-# Cyber Security
+# User Manual for Xianpei
 
-1. **Need from Teammates:**  
-   If I am working in an unfamiliar area (such as front-end development or manual testing, which are new to me), I prefer receiving detailed instructions from my teammates. This approach minimizes failure risks and allows me to complete the work efficiently and with high quality, without repeatedly asking for confirmation. In general, I appreciate direct communication from my teammates, as it is the most efficient way to collaborate and ensure alignment.  
+## My Role  
+- I am working as a **Manual QA Intern**.  
+- My working hours are **10:00 AM – 6:00 PM AEST**.  
 
-2. **Communication Preference:**  
-   I am open to any communication method as long as it is reasonable and effective, based on the importance and urgency of the situation. For critical tasks or must-do events, I prefer having proper documentation to track updates, responsibilities, and progress, ensuring accountability and clarity for all involved.  
+---
 
-3. **Ways to Stay Focused:**  
-   When I feel slightly fatigued, listening to music helps me stay productive. Additionally, I am a to-do list person—I like to plan my days, schedule tasks, and stick to my plan until completion. I thrive in an interactive workplace where collaboration is valued because I believe communication is essential to productivity and teamwork.  
+## How I Work Best  
+- I do my best work when **I have clear expectations and examples (such as previous work samples). Having a to-do list and a well-structured schedule also helps me stay on track.**  
+- I struggle when **there is a lack of clear direction or instructions in areas unfamiliar to me (such as front-end development or manual testing, which are new to me).**  
 
-4. **Feedback:**  
-   I have no specific preference for how feedback is delivered. I value personal growth and team development, and as long as feedback is constructive, reasonable, and beneficial for both the individual and the company, I am happy to receiving and implementing it.  
+---
 
-5. **Work Style:**  
-   I am a research-oriented person who enjoys deepening my understanding through self-study. However, I also highly value feedback and recommendations from others, as I have learned a lot from my previous mentors and supervisors. I consider myself both a good student and a good teacher—I am always willing to assist my teammates when needed. My teammates turned to me for support when they needed an extra hand, such as when a coworker is on vacation or unavailable.  
+## Communication Style  
+- I prefer messages to be **direct, with enough detail when necessary. If a task requires context, I appreciate well-structured written communication.**  
+- The best way to reach me is **via Discord messages**.  
+- If you need something urgent, **feel free to talk to me directly. If it’s extremely urgent, a quick call is best.**  
+
+---
+
+## Collaboration & Teamwork  
+- I work best in a team when **there is open, respectful communication and a collaborative approach to problem-solving. I appreciate a balance between independence and teamwork.**  
+- My biggest pet peeves in teamwork are **unclear instructions and a lack of accountability**.  
+- If I seem quiet in a meeting, it usually means **I am processing the discussion or ensuring I fully understand the topic before contributing**.  
+
+---
+
+## Focus & Productivity  
+- I stay focused by **creating structured to-do lists, setting clear goals, and listening to chill music**.  
+- Things that distract me include **excessive notifications, last-minute changes, and unclear priorities**.  
+- The best way to support my productivity is **to provide clear expectations and structured feedback**.  
+
+---
+
+## Feedback & Growth  
+- I like feedback to be **constructive, direct, and specific, with examples when necessary. I appreciate both public and private feedback, as long as feedback is constructive, reasonable, and beneficial for both the individual and the company, I am open to receiving and implementing it**.  
+- When I make a mistake, the best way to let me know is **to address it directly, explain the issue clearly, and suggest how I can improve. A solution-oriented approach works best for me**.  
+- I appreciate it when teammates **are open to collaboration, share knowledge, and provide constructive feedback in a positive and professional manner**.  
+
+---
+
+## Fun Facts & Quirks  
+- One thing people often misunderstand about me is **that I may seem talkative at times, but when I’m focused, I prefer to work quietly**.  
+- A fun fact about me is **that I consistently practice meditation to reduce stress and avoid emotional influence when trading equities**.  
+- My work superpower is **always being willing to lend a helping hand to my teammates, and I always highly value feedback and recommendations from others, as I have learned a lot from my previous mentors and supervisors.**.  
+
+---
+
