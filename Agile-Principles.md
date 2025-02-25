@@ -19,7 +19,7 @@ Agile principles encourage me to **continuously update and plan my work** to sta
 
 Scrum follows a **structured sprint-based approach**, where work is planned in fixed iterations (sprints), and only **limited changes** can be made within each sprint. Each team member has a **defined role**, and the process follows a structured framework with sprint planning, reviews, and retrospectives.  
 
-Kanban, on the other hand, is **more flexible and allows continuous work management**. It does not follow fixed-length iterations, making it **more adaptable to change**. Work is visualized on a Kanban board, and tasks move through the workflow based on priority and capacity rather than predefined sprints.  
+Kanban, on the other hand, is **more flexible and allows continuous work management**. It does not follow fixed-length iterations, making it **more adaptable to change**. Work is visualized on a Kanban board, and tasks move through the workflow based on priority and capacity rather than predefined sprints. Most importantly, it has working in progress limit according to the team's capacity.
 
 ---
 
