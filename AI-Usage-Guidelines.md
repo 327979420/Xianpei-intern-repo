@@ -10,5 +10,5 @@
    I am cautious about data privacy and avoid sharing any personal information, client data, or company-owned intellectual property (including confidential information and proprietary code) with AI tools. I ensure that all AI interactions comply with security policies and best practices, and I prefer using AI solutions that prioritize user privacy and data security.  
 
 ## **Task: Document one best practice you will follow when using AI tools at Focus Bear**  
-   Not feeding sensitive company and user information, and not copying and pasting more than 1 function of code into AI tools.
+Not feeding sensitive company and user information, and not copying and pasting more than 1 function of code into AI tools.
     
