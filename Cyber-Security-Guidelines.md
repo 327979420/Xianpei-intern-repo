@@ -11,3 +11,9 @@
 
 4. **Handling Security Breaches:**  
    In the event of a security breach, I would immediately disconnect my device from the internet, close all sensitive programs, and secure critical accounts by resetting passwords. I would run an in-depth malware scan using trusted security software and check for any signs of unauthorized access. If necessary, I would report the incident to my IT department or service provider and follow appropriate protocols to mitigate further risks.  
+
+## **Task: Document One New Cyber Security Habit You Will Follow at Focus Bear**  
+
+   I will always lock my laptop when stepping away to prevent unauthorized access. Additionally, I will double-check user accounts on Discord and email addresses** before sending messages and after receiving them to ensure information is shared securely and with the correct recipients.  
+
+
