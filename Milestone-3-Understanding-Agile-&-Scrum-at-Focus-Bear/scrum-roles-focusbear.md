@@ -36,7 +36,7 @@ Scrum roles collaborate to keep projects on track. Typically:
 - The **Scrum Master** removes roadblocks.  
 - The **Development Team** builds the product.  
 
-For example, if a customer requests a new feature:
+If a customer requests a new feature:
 1. The **PO** adds it to the backlog.  
 2. The **Scrum Master** ensures the team has everything needed.  
 3. Developers implement it in a sprint.  
@@ -45,8 +45,6 @@ Regular **Daily Standups** help keep everyone aligned and proactive in solving i
 
 ❓ How does a Product Manager's role impact sprint planning and backlog prioritization?  
 The **PM** ensures the backlog aligns with business goals and customer needs. During **Sprint Planning**, they work with the **Product Owner** to prioritize features and bug fixes.  
-
-For example, if users report a major app crash, the **PM** might push for fixing it in the next sprint rather than developing a new feature. Their role ensures the team focuses on **high-value work**.
 
 ❓ If a developer is struggling to complete a task, whose responsibility is it to help unblock them?  
 - The **Scrum Master** helps remove obstacles.  
