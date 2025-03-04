@@ -10,6 +10,7 @@ For example:
 
 ## Which ceremony do you think is most important for your role, and why?  
 
+As my role turned to project manager, all ceremoneis matter to me, but sprint planning is the most important one. It directly determine the direction of the whole team during that sprint. If team is heading to a wrong direction, it further lead to wasted effort or unwanted results. A clear Sprint Planning session sets the foundation for a successful sprint by aligning the team on priorities, workload, and achievable goals.
 
 ---
 
