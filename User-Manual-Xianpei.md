@@ -1,7 +1,7 @@
 # User Manual for Xianpei
 
 ## My Role  
-- I am working as a **Manual QA Intern**.  
+- I am working as a **Agile Project Manager**.  
 - My working hours are **10:00 AM – 6:00 PM AEST**.  
 
 ---
