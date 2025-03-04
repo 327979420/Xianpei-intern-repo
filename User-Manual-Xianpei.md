@@ -1,7 +1,7 @@
 # User Manual for Xianpei
 
 ## My Role  
-- I am working as a **Agile Project Manager**.  
+- I am working as an **Agile Project Manager**.  
 - My working hours are **10:00 AM – 6:00 PM AEST**.  
 
 ---
@@ -43,7 +43,7 @@
 ## Fun Facts & Quirks  
 - One thing people often misunderstand about me is **that I may seem talkative at times, but when I’m focused, I prefer to work quietly**.  
 - A fun fact about me is **that I consistently practice meditation to reduce stress and avoid emotional influence when trading equities**.  
-- My work superpower is **always being willing to lend a helping hand to my teammates, and I always highly value feedback and recommendations from others, as I have learned a lot from my previous mentors and supervisors.**.  
+- My work superpower is **always being willing to lend a helping hand to my teammates, and I always highly value feedback and recommendations from others, as I have learned a lot from my previous mentors and supervisors**.  
 
 ---
 
