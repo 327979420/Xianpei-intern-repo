@@ -1,6 +1,6 @@
 # 🏆 Milestone: Familiarity with Project Management Tools
 
-## 🔍 Research & Learn
+## 🔍 Research & Learn 
 
 ### ❓ What is the purpose of a Sprint Retrospective, and how does it benefit Agile teams?  
 The purpose of a Sprint Retrospective is to reflect on the previous sprint and identify areas for improvement. It gives the team an opportunity to discuss what went well, what didn’t go well, and agree on actionable changes for the next sprint. This continuous reflection helps Agile teams improve collaboration, efficiency, and product quality over time by fostering a culture of learning and adaptation.
