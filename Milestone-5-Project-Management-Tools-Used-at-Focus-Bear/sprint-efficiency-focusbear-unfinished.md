@@ -32,30 +32,44 @@ According to the **Kaizen** approach, involving all team members in small, ongoi
 ## 📝 Reflection
 
 ### ❓ How can Agile data be used to identify underperforming sprints?  
-Agile teams can identify underperforming sprints by analyzing specific metrics:  
-- **Sprint Burndown Charts** reveal slow progress or poor estimation if the remaining work line is flat or inconsistent.  
-- **Velocity fluctuations** indicate issues like overcommitment or blockers.  
-- A high **Creep to Commit Ratio** shows unplanned work disrupting the sprint.  
-Monitoring these metrics helps teams detect inefficiencies and improve performance.  
+Agile teams can identify underperforming sprints by analyzing key metrics that highlight where the sprint may have fallen short. For example, if the Sprint Burndown Chart at Focus Bear shows a flat or inconsistent trend line, it could indicate that tasks are not being completed steadily, possibly due to blockers like unclear requirements for backend integrations. 
+
+Velocity fluctuations, such as a sudden drop in story points completed compared to previous sprints, might signal overcommitment or disruptions, like team members juggling part-time schedules. Additionally, a high Creep to Commit Ratio—where unplanned tasks like urgent bug fixes or ad-hoc feature requests are added mid-sprint—can derail focus and delay delivery. Regularly monitoring these metrics in tools like GitHub Projects (or visualizing them in a Google Sheet) helps the team detect inefficiencies early and take corrective action for future sprints.
 
 ### ❓ What steps can be taken if metrics show a decline in team productivity?  
-When metrics show a decline in team productivity, teams can:  
-1. Conduct **team retrospectives** to reflect on recent sprints and uncover challenges (skill gaps, communication breakdowns, or process inefficiencies).  
-2. Identify root causes using problem-solving techniques such as the **"5 Whys"** or **fishbone diagrams**.  
-This structured approach helps pinpoint fundamental problems, leading to targeted improvements in workflow and productivity.  
+When metrics show a decline in productivity—such as longer cycle times for backend tasks or a drop in velocity—the first step is to run a team retrospective focused on uncovering the underlying issues. For example, if interns are consistently missing story estimates, the team might explore whether there's a skill gap in understanding the complexity of tasks like integrating Posthog APIs. 
+
+Using problem-solving techniques like the "5 Whys", the team might find that unclear documentation is causing confusion, not the tasks themselves. After identifying root causes, the Scrum Master or Project Manager can facilitate targeted improvements, such as updating onboarding guides, offering pair programming sessions, or adjusting sprint goals to better match team capacity. This structured approach ensures that interventions directly address the specific challenges impacting productivity.
 
 ### ❓ How can Scrum Masters balance data-driven decisions with qualitative team feedback?  
-Scrum Masters combine **Agile metrics** (velocity, cycle time, burndown charts) with **qualitative feedback** from retrospectives, one-on-one discussions, and team surveys.  
-This ensures decisions are not solely based on numbers but also consider team well-being, morale, and workflow realities.  
-By balancing both, Scrum Masters make holistic, informed decisions that support both productivity and team health.
-ying challenges, emotions, and morale. By combining these, Scrum Masters ensure that decisions are not solely based on numbers but also account for team well-being and workflow realities.
+At Focus Bear, the Scrum Master (or Project Manager) balances Agile metrics like velocity, cycle time, and task completion rates with qualitative feedback gathered from retrospectives, one-on-one check-ins, and team surveys. For instance, if sprint data shows a slowdown in backend feature delivery but team feedback highlights low morale due to unclear priorities, the Scrum Master can address both the data and the human factors by realigning sprint goals and improving communication in planning meetings. 
+
+Combining both quantitative and qualitative insights allows for holistic decision-making, ensuring changes are not just based on numbers but also reflect the team's capacity, well-being, and engagement. This balance helps build trust within the team, showing that data informs decisions but doesn't ignore the human experience.
 
 ---
 
 ## 🛠️ Task
 
 ### Identify at least one inefficiency or trend in sprint workflow (e.g., unfinished tasks, high carryover rate).
+After reviewing recent sprint data at Backend Team, one clear inefficiency is the high carryover rate of unfinished tasks. Several tasks, such as improvements to URL safety checks and integrations like Google Calendar, frequently move from one sprint to the next without completion. 
+
+This trend seems to be linked to inconsistent task estimation and varying team availability, especially with interns working part-time schedules and balancing university commitments.
+
 ### Propose an actionable improvement based on your findings.
-### Discuss your insights with a developer or PM to see how they interpret the data.
+To address the high carryover rate, I recommend implementing more accurate capacity planning and clearer task sizing during sprint planning. Specifically:
+
+- 👕 Introduce T-Shirt Sizing (S, M, L, XL)
+Use this simple, relative estimation method to help align expectations across different experience levels—especially helpful for interns who are still building their estimation skills.
+
+- 📅 Conduct a Mid-Sprint Review or Checkpoint
+Hold a brief review halfway through the sprint to reassess progress, identify blockers, and adjust the scope early if necessary. This proactive step can help prevent surprises at the end of the sprint.
+
+- 🪛 Encourage Task Breakdown into Smaller Sub-Tasks
+Promote breaking down large tasks into smaller, more manageable sub-tasks in GitHub Projects. This makes progress more visible, reduces the risk of tasks getting stuck, and increases the likelihood of completing work within the sprint timeline.
 
 ### Write a short report on how data can improve sprint efficiency at Focus Bear.
+At Focus Bear, data plays a crucial role in identifying inefficiencies and improving sprint efficiency. By analyzing metrics such as carryover rate, task completion percentage, and cycle time, we gain insights into where bottlenecks occur and why tasks aren’t being finished on time. For example, a high carryover rate revealed during sprint reviews indicates a need for better capacity planning and more realistic task estimation. 
+
+Implementing structured approaches like T-Shirt Sizing, breaking down large tasks, and conducting mid-sprint checkpoints can help the team make more informed decisions during planning and adapt more effectively during execution. 
+
+Data-driven improvements, paired with regular feedback from developers and PMs, ensure that sprints remain focused, achievable, and efficient, even with a rotating intern team and varying work schedules.
