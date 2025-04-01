@@ -34,6 +34,12 @@ Varying the format and content of standups can make them more engaging and preve
 ## 🛠️ Task
 
 ### ❓ Write a short reflection on how standup attendance tracking is used at Focus Bear.  
-At Focus Bear, standup attendance tracking is managed through simple and accessible tools. Although I don’t have direct access to the current attendance file, I learned from a conversation with Cinmily that she uses Notion, utilizing built-in checkboxes to record each member’s attendance during standups. 
+Standup attendance tracking at Focus Bear was initially handled through Notion, where Cinmily used built-in checkboxes to record attendance during daily standups. While I don’t currently have direct access to this file, I’ve learned that it’s updated live and provides a quick visual reference for who attended each session. In addition, Google Calendar invites are used to cross-reference attendance history when needed.
 
-Additionally, the team can review past Google Calendar invites to cross-reference and confirm attendance for each session. Moving forward, I plan to create a Google Sheet to track attendance, as suggested. Since the backend team is relatively small, I can manually record meeting participation, even with members working on different days. This approach will help maintain consistency and support team engagement.
+From daily stand-ups, it appears that attendance isn’t formally reviewed on a fixed schedule, but patterns have emerged—particularly among interns with part-time availability. For example, backend interns who only work on Mondays and Tuesdays often miss mid- or late-week standups, potentially leading to misalignment during sprints. In another team, some members have repeatedly missed standups and even sprint planning sessions, without prior communication, which raises concerns around team coordination and accountability.
+
+To prevent this, I created a dedicated Google Sheet tracker, updated weekly, to monitor attendance across the teams. This helps surface attendance gaps early, allowing for timely follow-up. If a team member consistently misses meetings without notice, I plan to schedule a one-on-one check-in to understand the reason—whether it’s due to time conflicts, personal challenges, or disengagement. If it’s a scheduling issue, I will encourage the member to submit async updates before standups to keep the team aligned without requiring rescheduling. This structured approach aims to improve consistency, strengthen communication, and ensure everyone stays engaged in the sprint workflow.
+
+
+
+
