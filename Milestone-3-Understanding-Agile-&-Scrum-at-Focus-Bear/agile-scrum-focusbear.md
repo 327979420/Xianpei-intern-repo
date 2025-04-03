@@ -28,21 +28,24 @@ Key Scrum ceremonies include sprint planning, daily stand-ups, sprint reviews, a
 ## 📝 Reflection
 
 #### ❓What are the biggest benefits of Agile & Scrum for software teams?
-  Agile and Scrum help software teams collaborate better and adapt quickly to changes. Work is done in small steps, allowing teams to release updates quickly instead of waiting months. 
 
-For example, a software team can launch a basic version of a product and keep improving it based on user feedback. Scrum also keeps everyone aligned with daily check-ins and regular feedback loops, reducing wasted effort.
+Agile and Scrum help software teams collaborate better and adapt quickly to changes. At Focus Bear, we follow this approach using weekly sprints and daily standups, which keep everyone aligned and make it easier to deliver value consistently.
+
+Instead of waiting months for a finished product, the Focus Bear team releases updates frequently—guided by ongoing feedback from users and internal testing. Using GitHub Projects, we manage sprint tasks in bite-sized chunks, allowing us to build, test, and iterate faster. However, Notion and other shared documents are always options to track internal documentation, retrospective notes, and sometimes to visualize broader roadmaps or onboarding progress. This dual-system setup could help with both detailed tracking and high-level planning.
 
 #### ❓How does Scrum help teams stay adaptable and improve continuously?
-  Scrum uses short sprints and regular feedback to help teams adjust quickly. If a customer requests a new feature, the team can add it to the backlog and include it in the next sprint. 
+Scrum rituals like retrospectives and sprint planning allow us to make constant improvements. At Focus Bear, retros are held every Friday once they start. 
 
-After every sprint:
-- **Sprint Review** ensures the product meets expectations.
-- **Retrospective** helps teams identify improvements and refine their workflow.
+One takeaway from a recent retro was the need to clarify onboarding tasks across teams. In response, I helped document clearer workflows and reviewed how task assignment works in GitHub Projects.
+
+Personally, I’ve also used retros to improve my task scoping and time estimation, so that issues get done within sprint boundaries. For example, I started setting internal deadlines mid-sprint to avoid having to rush at the end.
 
 #### ❓What challenges do teams face when implementing Agile, and how can they overcome them?
-  Teams often struggle with unclear requirements and poor communication. To address this:
-- Keep user stories simple and well-defined.
-- Hold regular discussions with stakeholders.
-- Refine the backlog to clarify priorities.
+One challenge is working with rotating interns from different time zones, which can cause delays or misalignment. At Focus Bear, we’ve overcome this by:
 
-For example, if a team is confused about what to focus on, the Product Manager can refine the backlog and clarify goals. Strong collaboration and adapting to feedback are key to Agile success.
+- Holding regular daily standups (via Google Meet)
+- Using Discord and GitHub issues for asynchronous updates
+- Assigning a clear PM contact for each project
+- Sharing user manual and team contact 
+
+When issues arise—like unclear task requirements or missed standups—I’ve learned to proactively reach out, update the sprint board, or clarify in meetings. This ensures the team stays focused and can still meet sprint goals even when unexpected blockers come up.
