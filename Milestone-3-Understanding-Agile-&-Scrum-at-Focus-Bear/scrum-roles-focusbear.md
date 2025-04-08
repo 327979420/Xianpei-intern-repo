@@ -27,28 +27,30 @@ The **Scrum Master** helps with:
 ## 📝 Reflection
 
 ### ❓ How do Scrum roles work together to ensure project success?  
-Scrum roles collaborate to keep projects on track. Typically:
-- The **PO** sets priorities.  
-- The **Scrum Master** removes roadblocks.  
-- The **Development Team** builds the product.  
+At Focus Bear, Scrum roles work collaboratively to keep our weekly sprints on track:
 
-If a customer requests a new feature:
-1. The **PO** adds it to the backlog.  
-2. The **Scrum Master** ensures the team has everything needed.  
-3. Developers implement it in a sprint.  
+- The Product Manager (PM) prioritizes tasks based on business needs and user feedback.
+- The Scrum Master (Project Manager Intern) facilitates meetings and helps remove roadblocks.
+- The Development Team (Interns and Developers) implements the features and fixes.
 
-Regular **Daily Standups** help keep everyone aligned and proactive in solving issues.
+For example, ideally, when a new onboarding feature was requested for incoming interns, the PM added it to the GitHub backlog, and it was discussed during sprint planning. The task was assigned to a developer intern, and the PM followed up during daily standups to check progress. When the intern faced confusion with UI styles, another teammate shared guidance, and the issue was unblocked quickly. These roles—and daily syncs—keep the team aligned and ensure tasks are progressing even across time zones.
 
 ### ❓ How does a Product Manager's role impact sprint planning and backlog prioritization?  
-The **PM** ensures the backlog aligns with business goals and customer needs. During **Sprint Planning**, they work with the **Product Owner** to prioritize features and bug fixes.  
+At Focus Bear, the PM plays a central role in sprint planning and backlog grooming. They ensure the highest-priority tasks align with user needs—like improving onboarding flow, squashing bugs, or refining features that support ADHD users.
+
+For example, when preparing for the O-week app demo at Monash, the PM prioritized stability tasks and UI improvements in the sprint. During sprint planning, they walked the team through the updated GitHub board and made sure everyone understood the tasks and deadlines.
+
+They also use Notion to outline roadmaps and cross-functional updates, helping interns understand how their tasks contribute to the larger product vision.
 
 ### ❓ If a developer is struggling to complete a task, whose responsibility is it to help unblock them?  
-- The **Scrum Master** helps remove obstacles.  
-- Teammates can assist.  
+At Focus Bear, when a developer hits a roadblock, standups and Discord are used to raise the issue and find support. Typically:
 
-For example, if a developer is stuck debugging a critical issue:
-1. They discuss it in the **Daily Standup**.  
-2. Another developer with experience in that area can help.  
-3. If it's a requirement issue, the **Product Owner** clarifies what needs to be done.  
+ - The PM/Scrum Master facilitates unblocking by checking in and escalating if needed.
+ - Peer interns or senior devs may step in to help troubleshoot.
+ - If it’s a scope or clarity issue, the PM clarifies expectations and updates GitHub tickets accordingly.
 
-This ensures **smooth progress** and team collaboration.
+For instance, in a recent retrospective, one intern was stuck estimating design time for UI work. After raising it in standup, the team reviewed the task in more detail and adjusted expectations. Another time, a developer struggled with React Native libraries and got help from another intern who’d already dealt with similar issues.
+
+This kind of collaboration ensures tasks don't stay blocked and learning happens along the way.
+
+
